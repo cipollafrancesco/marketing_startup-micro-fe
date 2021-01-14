@@ -1,4 +1,4 @@
-# CONTAINER MICRO-FE CONFIG FILE
+# MARKETING MICRO-FE CONFIG FILE
 name: deploy-marketing
 on:
   push:
